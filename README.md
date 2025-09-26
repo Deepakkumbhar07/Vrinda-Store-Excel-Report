@@ -13,6 +13,8 @@ Tech Stack 💻
 The dashboard was developed using Microsoft Excel, Power BI, or Tableau. PivotTables and PivotCharts were used for summarization, while slicers and filters were applied for interactivity by month, category, channel, and status. The visuals include bar charts, line charts, pie charts, and trend analysis for clear comparisons.
 
 
+
+
 Key Insights 🔍
 
 Women shoppers dominate sales with 64% contribution compared to men at 36%. Senior women form the largest customer base, driving over 43% of sales. The top three states by sales are Maharashtra with 2.98M, Karnataka with 2.65M, and Uttar Pradesh with 2.10M. March emerged as the peak sales month with revenue nearing 1.95M. Amazon, with 35.4% of orders, and Myntra, with 23.3%, are the leading order channels. Major product categories include Sarees, Western Wear, Kurtas, and Tops.
